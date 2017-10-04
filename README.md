@@ -4,6 +4,9 @@ POCs and Curated Lists about AR / VR
 
 ## Resources
 
+AR like "SOLVE"
+https://twitter.com/lukew/status/915286334301913088
+
 Leia
 https://www.youtube.com/watch?v=I0CZAD1nD-c
 http://www.leiadisplay.com/
