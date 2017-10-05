@@ -114,3 +114,6 @@ http://store.steampowered.com/steamvr
 
 Hands-on with Snapchat’s mediocre, crashy AR art
 https://techcrunch.com/2017/10/03/hands-on-with-snapchats-mediocre-crashy-ar-art/?ncid=rss
+
+Yu-Gi-Oh! World Championship 2017 | Exhibition Augmented Reality Duel
+https://www.youtube.com/watch?v=UmZJ0GgulbE
