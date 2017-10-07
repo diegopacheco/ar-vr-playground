@@ -7,6 +7,9 @@ POCs and Curated Lists about AR / VR
 AR like "SOLVE"
 https://twitter.com/lukew/status/915286334301913088
 
+Top 11 IOS 11 Apps - ARKit
+https://www.youtube.com/watch?v=bUEuzBlkWNI&index=2&list=LL81qdxTnQWQxw73_CmIZAjg
+
 Leia
 https://www.youtube.com/watch?v=I0CZAD1nD-c
 http://www.leiadisplay.com/
