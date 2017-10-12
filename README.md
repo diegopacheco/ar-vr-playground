@@ -26,6 +26,9 @@ https://www.youtube.com/watch?v=wH9oD0O2TOs
 AB Experimental
 http://www.creativeapplications.net/android/ab-experimental-ar-livestream-with-audience-participation/
 
+MagicLeap
+https://www.youtube.com/watch?v=kPMHcanq0xM
+
 Case MS HoloLens + Ford
 https://www.youtube.com/watch?v=3QyA7HhIYkg
 
