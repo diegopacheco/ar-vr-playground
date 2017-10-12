@@ -23,6 +23,9 @@ https://www.youtube.com/watch?v=CxDGgrPaQGo
 HoloLens Shopping Mall War
 https://www.youtube.com/watch?v=wH9oD0O2TOs
 
+AB Experimental
+http://www.creativeapplications.net/android/ab-experimental-ar-livestream-with-audience-participation/
+
 Case MS HoloLens + Ford
 https://www.youtube.com/watch?v=3QyA7HhIYkg
 
