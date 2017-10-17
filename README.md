@@ -127,6 +127,9 @@ https://techcrunch.com/2017/10/03/hands-on-with-snapchats-mediocre-crashy-ar-art
 Yu-Gi-Oh! World Championship 2017 | Exhibition Augmented Reality Duel
 https://www.youtube.com/watch?v=UmZJ0GgulbE
 
+Aurora
+https://aurora.jam3.net/#!/experience
+
 3D models </BR>
 https://vr.google.com/blocks/ </BR>
 https://free3d.com/3d-models/all/1/obj </BR>
