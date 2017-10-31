@@ -82,6 +82,9 @@ https://www.wired.com/story/an-artist-uses-an-iphone-to-visualize-sounds-in-ar/
 AR.js
 https://github.com/jeromeetienne/AR.js/
 
+MasterCard Is Working To Make AR Retail Seamless
+https://www.psfk.com/2017/10/mastercard-is-working-to-make-ar-retail-seamless.html
+
 eBay Camera Search for products
 https://techcrunch.com/2017/07/26/ebay-to-launch-visual-search-tools-for-finding-products-using-photos-from-your-phone-or-web/
 
