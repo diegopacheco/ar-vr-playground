@@ -136,6 +136,9 @@ https://aurora.jam3.net/#!/experience
 Dunkirk VR Game
 https://webvrgame.dunkirkmovie.com/
 
+MS Hololens Workspace
+https://www.youtube.com/watch?v=EIJM9xNg9xs
+
 3D models </BR>
 https://vr.google.com/blocks/ </BR>
 https://free3d.com/3d-models/all/1/obj </BR>
