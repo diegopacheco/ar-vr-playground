@@ -10,6 +10,9 @@ https://twitter.com/lukew/status/915286334301913088
 Top 11 IOS 11 Apps - ARKit
 https://www.youtube.com/watch?v=bUEuzBlkWNI&index=2&list=LL81qdxTnQWQxw73_CmIZAjg
 
+Google Poly
+https://poly.google.com/
+
 Leia
 https://www.youtube.com/watch?v=I0CZAD1nD-c
 http://www.leiadisplay.com/
