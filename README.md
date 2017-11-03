@@ -91,6 +91,9 @@ https://www.psfk.com/2017/10/mastercard-is-working-to-make-ar-retail-seamless.ht
 eBay Camera Search for products
 https://techcrunch.com/2017/07/26/ebay-to-launch-visual-search-tools-for-finding-products-using-photos-from-your-phone-or-web/
 
+There May Be a Way to Use Your Keyboard in VR
+https://www.technologyreview.com/the-download/609324/there-may-be-a-way-to-use-your-keyboard-in-vr/
+
 WebVR mozilla show case
 https://hacks.mozilla.org/2017/08/webvr-for-all-windows-users/
 
