@@ -91,6 +91,9 @@ https://www.psfk.com/2017/10/mastercard-is-working-to-make-ar-retail-seamless.ht
 eBay Camera Search for products
 https://techcrunch.com/2017/07/26/ebay-to-launch-visual-search-tools-for-finding-products-using-photos-from-your-phone-or-web/
 
+The Economics of the Office: Why Do We Still Commute? VR could fix that?
+https://www.citylab.com/transportation/2017/11/why-do-we-still-commute/544733/
+
 There May Be a Way to Use Your Keyboard in VR
 https://www.technologyreview.com/the-download/609324/there-may-be-a-way-to-use-your-keyboard-in-vr/
 
