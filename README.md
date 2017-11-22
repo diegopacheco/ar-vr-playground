@@ -151,6 +151,9 @@ https://webvrgame.dunkirkmovie.com/
 MS Hololens Workspace
 https://www.youtube.com/watch?v=EIJM9xNg9xs
 
+Finally, a Useful Application for VR: Training Employees
+https://www.technologyreview.com/s/609473/finally-a-useful-application-for-vr-training-employees/amp/
+
 3D models </BR>
 https://vr.google.com/blocks/ </BR>
 https://free3d.com/3d-models/all/1/obj </BR>
