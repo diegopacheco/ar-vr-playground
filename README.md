@@ -35,6 +35,9 @@ https://www.youtube.com/watch?v=08S86X_5Crs
 MagicLeap
 https://www.youtube.com/watch?v=kPMHcanq0xM
 
+AWS Sumerian
+https://aws.amazon.com/blogs/aws/launch-presenting-amazon-sumerian/
+
 Case MS HoloLens + Ford
 https://www.youtube.com/watch?v=3QyA7HhIYkg
 
